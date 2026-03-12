@@ -1,6 +1,6 @@
 ## LOC Analysis
 
-**Calculator.java** - 189 lines - 134 LOC
+**Calculator.java** - 188 lines - 134 LOC
 
 **Start.java** - 26 lines - 19 LOC
 
