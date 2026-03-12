@@ -26,3 +26,14 @@
 
 [Ln 19 Col 4] - Replace this use of System.out by a logger
 
+## Informal Code Review
+
+**Calculator.java**
+
+The code is functional and well organized, but refactoring and additional input validation could improve its quality.
+The evaluateExpression method is quite long and could be divided into smaller methods for better readability and code maintainability.
+
+**Start.java**
+
+The code is functional and understandable, but small optimizations and better organization could improve its quality and maintainability.
+Scanner is created inside the loop, which is not optimal. It would be better to create it once before the loop and close it at the end of the program.
